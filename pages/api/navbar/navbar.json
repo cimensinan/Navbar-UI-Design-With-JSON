@@ -1,0 +1,172 @@
+{
+  "navbar": [
+    {
+      "title": "Anasayfa",
+      "url": "/",
+      "type": "mainButton"
+    },
+    {
+      "title": "Hizmetlerimiz",
+      "type": "parentButton",
+      "children": [
+        {
+          "title": "Teknik Hizmetlerimiz",
+          "type": "parentButton",
+          "children": [
+            {
+              "title": "Frontend Teknolojileri",
+              "url": "/hizmetlerimiz/frontend-teknolojileri",
+              "type": "childButton"
+            },
+            {
+              "title": "Backend Teknolojileri",
+              "url": "/hizmetlerimiz/backend-teknolojileri",
+              "type": "childButton"
+            },
+            {
+              "title": "AWS Hizmetleri",
+              "url": "/hizmetlerimiz/aws-hizmetleri",
+              "type": "childButton"
+            }
+          ]
+        },
+        {
+          "title": "Danışmanlık Hizmetlerimiz",
+          "type": "parentButton",
+          "children": [
+            {
+              "title": "Teknik Destek",
+              "url": "/hizmetlerimiz/teknik-destek",
+              "type": "childButton"
+            },
+            {
+              "title": "Bilgilendirme Hizmetleri",
+              "url": "/hizmetlerimiz/bilgilendirme-hizmetleri",
+              "type": "childButton"
+            },
+            {
+              "title": "Mentorluk Hizmetleri",
+              "url": "/hizmetlerimiz/mentorluk-hizmetleri",
+              "type": "childButton"
+            },
+            {
+              "title": "Danışmanlık Eğitimleri",
+              "type": "parentButton",
+              "children": [
+                {
+                  "title": "Sertifikalı Danışmanlık Hizmeti",
+                  "url": "/hizmetlerimiz/danismanlik-egitimleri/sertifikali-hizmet",
+                  "type": "childButton"
+                },
+                {
+                  "title": "Kurumsal Danışmanlık Hizmeti",
+                  "url": "/hizmetlerimiz/danismanlik-egitimleri/kurumsal-hizmet",
+                  "type": "childButton"
+                }
+              ]
+            },
+            {
+              "title": "Eğitim Öğretim Planlama",
+              "url": "/hizmetlerimiz/egitim-ogretim-planlama",
+              "type": "childButton"
+            },
+            {
+              "title": "Yazılım Danışmanlığı",
+              "url": "/hizmetlerimiz/yazilim-danismanligi",
+              "type": "childButton"
+            },
+            {
+              "title": "Proje Danışmanlığı",
+              "url": "/hizmetlerimiz/proje-danismanligi",
+              "type": "childButton"
+            }
+          ]
+        },
+        {
+          "title": "Hatalı Altyapı Onarımı",
+          "url": "/hatali-altyapi-onarimi",
+          "type": "childButton"
+        }
+      ]
+    },
+    {
+      "title": "Hakkımızda",
+      "type": "parentButton",
+      "children": [
+        {
+          "title": "Biz Kimiz?",
+          "url": "/hakkimizda/biz-kimiz",
+          "type": "childButton"
+        },
+        {
+          "title": "Kurumsal",
+          "url": "/hakkimizda/kurumsal",
+          "type": "childButton"
+        },
+        {
+          "title": "Referanslarımız",
+          "type": "parentButton",
+          "children": [
+            {
+              "title": "Geçmiş Referanslar",
+              "type": "parentButton",
+              "children": [
+                {
+                  "title": "x referansı",
+                  "url": "/referanslarimiz/gecmis-referanslar/x-referansi",
+                  "type": "childButton"
+                },
+                {
+                  "title": "y referansı",
+                  "url": "/referanslarimiz/gecmis-referanslar/y-referansi",
+                  "type": "childButton"
+                },
+                {
+                  "title": "z referansı",
+                  "url": "/referanslarimiz/gecmis-referanslar/z-referansi",
+                  "type": "childButton"
+                }
+              ]
+            },
+            {
+              "title": "Gelecek Referanslar",
+              "type": "parentButton",
+              "children": [
+                {
+                  "title": "a referansı",
+                  "url": "/referanslarimiz/gelecek-referanslar/a-referansi",
+                  "type": "childButton"
+                },
+                {
+                  "title": "b referansı",
+                  "url": "/referanslarimiz/gelecek-referanslar/b-referansi",
+                  "type": "childButton"
+                },
+                {
+                  "title": "c referansı",
+                  "url": "/referanslarimiz/gelecek-referanslar/c-referansi",
+                  "type": "childButton"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Vizyon",
+          "url": "/hakkimizda/vizyon",
+          "type": "childButton"
+        },
+        {
+          "title": "Misyon",
+          "url": "/hakkimizda/misyon",
+          "type": "childButton"
+        }
+      ]
+    },
+    {
+      "title": "İletişim",
+      "url": "/iletisim",
+      "type": "mainButton"
+    }
+  ]
+}
