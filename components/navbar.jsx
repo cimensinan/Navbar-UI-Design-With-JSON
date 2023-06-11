@@ -9,7 +9,7 @@ const Navbar = () => {
       if (button.type === "mainButton") {
         return (
           <a
-            key={button.title} // Her bir butona unique bir key ekleyelim
+            key={button.title}
             href={button.url}
             className="bg-blue-500 hover:bg-blue-600 text-white py-2 px-4 rounded"
           >
